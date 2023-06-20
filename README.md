@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @karthickgaurdian
 - 👀 I’m interested in exploring
-- 🌱 I’m currently learning angular
+- 🌱 I’m currently learning angular,react , fabric 
 - 💞️ I’m looking forward to lead a healthy life
 - 📫 you can reach me through karthick@bezohminds.com
 - ✨ save water,plant trees,donate blood
